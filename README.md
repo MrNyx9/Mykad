@@ -1,2 +1,0 @@
-# Mykad
-Created with CodeSandbox
